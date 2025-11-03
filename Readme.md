@@ -7,7 +7,7 @@ pip install opencv-python pillow numpy
 - Resize:\
     Car → + and - keys (maintains 2:1 aspect ratio)\
     Text → [ and ] keys
-- Right-click to print text marker coordinates
+- Right-click to print text marker coordinates (right-click at top left of text after placement)
 - Press S to print all final overlay details (absolute & normalized coordinates, sizes)
 - Works with any .ttf font
 - Runtime file input — no need to edit the script manually
@@ -23,3 +23,4 @@ pip install opencv-python pillow numpy
 | **[ / ]**             | Resize **text**                               |
 | **S**                 | Print all final positions and sizes           |
 | **Q**                 | Quit the program                              |
+
